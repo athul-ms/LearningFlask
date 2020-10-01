@@ -1,0 +1,1 @@
+This repo is created as part of learnig Flask web framework on Visual Studio. The code was taken from the tutorial provided in the Microsoft website (https://docs.microsoft.com/en-us/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2019).Feel free to play with the code.
